@@ -1,0 +1,17 @@
+### You may remove the below notes and write your own README here
+
+Note 1: a program called img_cmp is zipped with the starter code, which you could use it to compare your output and the expected result.  Its usage is:
+
+    ./img_cmp <PPM file1> <PPM file2> [tolerance=0]
+
+The first and second arguments are the two PPM files to be compared.  The third one is a tolerance for comparing the pixel value difference, which should be an integer value.
+
+Note 2: a source file, checkerbaord.c, is provided as a reference to write a PPM file.  You should not need to modify the file. You can compile the checkerboard program using 
+
+  make checkerboard
+
+and its usage is:
+
+  ./checkerboard [output filename=checkerboard.ppm] [cols=7] [rows=5] [square size=50 pixels]
+
+All arguments are optional.  If you provide them, the first one should be the output filename, second and thrid specify the number of cols and rows of the checkerboard, and the last one defines the square sizes. If you run it as default, you should generate the same checkerboard.ppm as the one in the results folder. You can use img_cmp to compare them.
