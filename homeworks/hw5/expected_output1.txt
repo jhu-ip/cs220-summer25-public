@@ -1,0 +1,18 @@
+Result: Contact created
+Result: Contact created
+Result: Contact created
+Result: Granger,Hermione
+Result: Malfoy,Draco
+Result: Weasley,Ron
+Result: Phone number added
+Result: Phone number added
+Result: Phone number added
+Result: CELL,401-555-1234
+Result: VOIP,301-555-8765
+Result: WORK,61-491-570-156
+Result: Contact deleted
+Result: Granger,Hermione
+Result: Weasley,Ron
+Result: Phone number deleted
+Result: CELL,401-555-1234
+Error: Contact not found

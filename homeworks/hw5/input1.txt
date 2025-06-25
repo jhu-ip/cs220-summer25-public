@@ -1,0 +1,16 @@
+C Weasley Ron
+C Granger Hermione
+C Malfoy Draco
+L
+N Granger Hermione CELL 401-555-1234
+N Weasley Ron WORK 61-491-570-156
+N Granger Hermione VOIP 301-555-8765
+P Granger Hermione
+P Weasley Ron
+P Malfoy Draco
+D Malfoy Draco
+L
+X Granger Hermione VOIP 
+P Granger Hermione
+P Longbottom Neville
+Q
